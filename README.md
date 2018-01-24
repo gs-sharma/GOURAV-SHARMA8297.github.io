@@ -1,2 +1,3 @@
 # gouravsharma.me
-website codes
+This Repository cotains all the codes used in my website
+
